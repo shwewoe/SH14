@@ -1,9 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/rT2Hgc8_AsZN8a1oF957uDWYWhKvuNcIX7Ix8OUjM58/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAwLzU2LzU1LzY1/LzM2MF9GXzU2NTU2/NTA1X0dPTGN1SXpK/b0xaQmZxMHdtVVVO/RERlYkRab2lCQmZJ/LmpwZw" group-title="Live", Live Stream 1 HD
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/rT2Hgc8_AsZN8a1oF957uDWYWhKvuNcIX7Ix8OUjM58/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAwLzU2LzU1LzY1/LzM2MF9GXzU2NTU2/NTA1X0dPTGN1SXpK/b0xaQmZxMHdtVVVO/RERlYkRab2lCQmZJ/LmpwZw" group-title="Live", HD Live 1 အလွင့်
 
 #EXTVLCOPT:http-referrer=https://catchystream.com/
 
 https://us.catchystream.xyz/playlist/stream_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/rT2Hgc8_AsZN8a1oF957uDWYWhKvuNcIX7Ix8OUjM58/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAwLzU2LzU1LzY1/LzM2MF9GXzU2NTU2/NTA1X0dPTGN1SXpK/b0xaQmZxMHdtVVVO/RERlYkRab2lCQmZJ/LmpwZw" group-title="Live", HD Live 2 အလွင့်
+
+#EXTVLCOPT:http-referrer=https://catchystream.com/
+
+https://us.catchystream.xyz/playlist/stream_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/861/original/live-logo-free-png.png" group-title="Live", Live Stream 1 HD
 
