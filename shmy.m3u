@@ -1,9 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="
-https://imgs.search.brave.com/KCWSADKKYlqtFn5sxj9PXoRJKOA6SGaeT_dJWE77cpI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA1LzY0LzY4LzUx/LzM2MF9GXzU2NDY4/NTE3MV95ZzhEVm9F/V2VySzY3OU8xM0pS/SzNMeE9xTVJEeWdG/NC5qcGc
-" group-title="Live", FHD live 1
+https://imgs.search.brave.com/KCWSADKKYlqtFn5sxj9PXoRJKOA6SGaeT_dJWE77cpI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA1LzY0LzY4LzUx/LzM2MF9GXzU2NDY4/NTE3MV95ZzhEVm9F/V2VySzY3OU8xM0pS/SzNMeE9xTVJEeWdG/NC5qcGc" group-title="Live", FHD live 1
+
 #EXTVLCOPT:http-referrer=https://www.sportshub.to/
+
 https://s1.eliasoun.tk/hls/stream-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="
