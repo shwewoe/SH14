@@ -169,6 +169,36 @@ https://usa.raino.xyz/hls/stream10.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/861/original/live-logo-free-png.png" group-title="Live", Live Stream 11 HD
 
+#EXTVLCOPT:http-referrer=https://bdnewszh.com/
+
+https://usa.raino.xyz/hls/stream11.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/861/original/live-logo-free-png.png" group-title="Live", Live Stream 12 HD
+
+#EXTVLCOPT:http-referrer=https://bdnewszh.com/
+
+https://usa.raino.xyz/hls/stream12.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/861/original/live-logo-free-png.png" group-title="Live", Live Stream 13 HD
+
+#EXTVLCOPT:http-referrer=https://bdnewszh.com/
+
+https://usa.raino.xyz/hls/stream13.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/861/original/live-logo-free-png.png" group-title="Live", Live Stream 14 HD
+
+#EXTVLCOPT:http-referrer=https://bdnewszh.com/
+
+https://usa.raino.xyz/hls/stream14.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/861/original/live-logo-free-png.png" group-title="Live", Live Stream 15 HD
+
+#EXTVLCOPT:http-referrer=https://bdnewszh.com/
+
+https://usa.raino.xyz/hls/stream15.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/861/original/live-logo-free-png.png" group-title="Live", Live Stream 11 HD
+
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/tdti884RTdKCNHFyttC_Qx505KpgPkaChMYMH1uafrc/rs:fit:1080:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC45/SFFGRjdHMWhwdlRu/cFZNcVRncHNRSGFE/USZwaWQ9QXBp" group-title="Sports", USA Network HD 🇺🇲
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.cdndac.lol/lb/premium343/index.m3u8
