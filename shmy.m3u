@@ -101,6 +101,12 @@ https://s3.alnorum.xyz/hls/stream-2/index.m3u8
 
 https://s3.alnorum.xyz/hls/stream-3/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/aNyN274MgoRQUp3FtkI5vzre3ZslOnbcyNq3Kz_Ol8s/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAzLzMxLzE1Lzgz/LzM2MF9GXzMzMTE1/ODM0Ml9PVW4yV09n/dWl4TXRJQnUxbWV0/cTJWT0lpaHRUQWtR/Ty5qcGc" group-title="Live", FHD Live 4
+
+#EXTVLCOPT:http-referrer=https://www.sportshub.to/
+
+https://s3.alnorum.xyz/hls/stream-4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/aNyN274MgoRQUp3FtkI5vzre3ZslOnbcyNq3Kz_Ol8s/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAzLzMxLzE1Lzgz/LzM2MF9GXzMzMTE1/ODM0Ml9PVW4yV09n/dWl4TXRJQnUxbWV0/cTJWT0lpaHRUQWtR/Ty5qcGc" group-title="Live", SD Live 1
 
 #EXTVLCOPT:http-referrer=https://www.sportshub.to/
