@@ -1,5 +1,3 @@
-<iframe src="//stream.crichd.vip/update/skys1.php" width="100%" height="500px" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen  allow="encrypted-media"></iframe>
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/rT2Hgc8_AsZN8a1oF957uDWYWhKvuNcIX7Ix8OUjM58/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAwLzU2LzU1LzY1/LzM2MF9GXzU2NTU2/NTA1X0dPTGN1SXpK/b0xaQmZxMHdtVVVO/RERlYkRab2lCQmZJ/LmpwZw" group-title="Live", HD Ch 1 အလွင့်
 
@@ -1117,14 +1115,14 @@ https://webudit.webdicdn.lol/lb/premium327/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Backup Channel", Skysport Mainevent
 
 #EXTVLCOPT:http-referrer=https://fiveyardlab.com/
-https://n3.aliflailaaliflaila.com:999/hls/skysme.m3u8?md5=vfiY9-fy-XwWm-ZqBlgNxQ&expires=1694587064
+https://n8.aliflailaaliflaila.com:999/hls/skysme.m3u8?md5=bvW2jW9UEhRF5EFTwoTubA&expires=1694609177
 
 #EXTINF:-1 tvg-logo="" group-title="Backup Channel", Skysport Premierleague
 
 #EXTVLCOPT:http-referrer=https://fiveyardlab.com/
-https://n3.aliflailaaliflaila.com:999/hls/skysprem.m3u8?md5=E-mupHy3xxl8xAkn4w9JOg&expires=1694588894
+https://n7.aliflailaaliflaila.com:999/hls/skysprem.m3u8?md5=61IP0s6cfA1NpNABy5fWAw&expires=1694610307
 
-#EXTINF:-1 tvg-logo="" group-title="Backup Channel", Supersport Premierleague
+#EXTINF:-1 tvg-logo="" group-title="Backup Channel", TNT Sport 1
 
 #EXTVLCOPT:http-referrer=https://fiveyardlab.com/
-https://n11.aliflailaaliflaila.com:999/hls/superpremier.m3u8?md5=e7UxwAEAw4Aox_-3THSQxg&expires=1694589125
+https://n4.aliflailaaliflaila.com:999/hls/bbtsp1.m3u8?md5=SnzVmvEYmy0TZj6gSM_g_Q&expires=1694610416
