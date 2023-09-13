@@ -1121,3 +1121,8 @@ https://n3.aliflailaaliflaila.com:999/hls/skysme.m3u8?md5=vfiY9-fy-XwWm-ZqBlgNxQ
 
 #EXTVLCOPT:http-referrer=https://fiveyardlab.com/
 https://n3.aliflailaaliflaila.com:999/hls/skysprem.m3u8?md5=E-mupHy3xxl8xAkn4w9JOg&expires=1694588894
+
+#EXTINF:-1 tvg-logo="" group-title="Backup Channel", Supersport Premierleague
+
+#EXTVLCOPT:http-referrer=https://fiveyardlab.com/
+https://n11.aliflailaaliflaila.com:999/hls/superpremier.m3u8?md5=e7UxwAEAw4Aox_-3THSQxg&expires=1694589125
